@@ -1,18 +1,1 @@
-this is new  4
-from branch master
-
-ifa
-98765
-=======
-
-qwetert
-=======
-
-123456
-
-=======
-this is from branch1 
-	>>>>>>> branch1
-=======
-this is from branch2
->>>>>>> branch2
+this is from master
