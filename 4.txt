@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 this is 4
 from branch new
 =======
@@ -6,5 +5,11 @@ this is new  4
 from branch master
 
 ifa
+98765
+=======
 
 qwetert
+=======
+
+123456
+
